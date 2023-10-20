@@ -1,0 +1,129 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(7, 7, 9);
+    height: 150%;
+    margin-bottom: 200px;
+}
+.black{
+    color:aliceblue;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0px;
+    font-size: 200%;
+
+    
+}
+.black ul{
+  text-decoration: none;
+}
+header{
+     background-color:rgb(49, 25, 172);
+     height: 50px;
+     margin-top: 0px;
+}
+nav{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(45, 43, 137);
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+
+    
+}
+nav ul{
+    display :flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 35px;
+    color:aliceblue;
+    
+}
+.left img{
+    float: left;
+    width: 50%;
+    height: 80%;
+    margin:20px 0;
+}
+.left p{
+color: aliceblue;
+margin-top: 10px;
+font-size: larger;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 45%;
+    float: left;
+    margin-left:20px;
+  }
+  
+  td, th {
+    border: 1px solid #a29b9b;
+    text-align: left;
+    padding: 8px;
+  }
+  button{
+    padding: 12px;
+    background-color: #233bc8;
+    border: 1px solid #3498db;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    width: 150px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 30px;
+    cursor: pointer;
+          
+}
+button:hover {
+    background-color: #2980b9;
+    color: white;
+  }
+  .right img{
+    float: left;
+    height: max-content;
+    margin-top: 25px;
+    margin-left: 10px;
+    width: %;
+    height: 40%;
+    margin:20px 0;
+  }
+    p{
+    margin-top: 25px;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+   
+ }
+   h2{
+    color:rgb(50, 233, 22);
+    text-align: center;
+ }
+ .btn1 button{
+    padding: 12px;
+    background-color: #233bc8;
+    border: 1px solid #3498db;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    width: 150px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-bottom: 50px=;
+    
+          
+}
